@@ -23,10 +23,10 @@
 |  |  | | |
 
 
-![LocalResult](/src/Images/LocalResult.png)
+![LocalResult](/Project10/Images/LocalResult.png)
 
-![localStorage](/src/Images/localStorage.png)
+![localStorage](/Project10/Images/localStorage.png)
 
-![SessionResult](/src/Images/SessionResult.png)
+![SessionResult](/Project10/Images/SessionResult.png)
 
-![sessionStorage](/src/Images/sessionStorage.png)
+![sessionStorage](/Project10/Images/sessionStorage.png)
