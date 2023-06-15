@@ -2,96 +2,96 @@
 
 ## 1 Выбираем все столбцы из таблицы Клиенты, где город не начинается на букву "А", и страна "UK", сортируем по id клиентов в обратном порядке
 
-![1.Customers](/Images/1.Customers.png)
+![1.Customers](/Project10/Images/1.Customers.png)
 
 ## 2 Выбираем столбец "Имя клиента" из таблицы "Клиенты" и столбец "id заказа" из таблицы "Заказы". Из таблицы "Клиенты" присоеднияем к таблице "Заказы", приравнивая id клиентов из таблиц "Клиенты" и "Заказы". Сортируем по имени клиента
 
-![2.Customers](/Images/2.Customers.png)
+![2.Customers](/Project10/Images/2.Customers.png)
 
 ## 3 Выбираем все столбцы из таблицы "Клиенты", где в столбце "Страна" указана "Germany", сортируем по имени клиента
 
-![3.Customers](/Images/3.Customers.png)
+![3.Customers](/Project10/Images/3.Customers.png)
 
 ## 4 Выбираем все столбцы из таблицы "Категории", присоединеяем таблицу "Сотрудники"
 
-![4.Categories](/Images/4.Categories.png)
+![4.Categories](/Project10/Images/4.Categories.png)
 
 ## 5 Выбираем все столбцы из таблицы "Категории", присоединеяем таблицу "Сотрудники", сортируем по фамилии
 
-![5.Categories](/Images/5.Categories.png)
+![5.Categories](/Project10/Images/5.Categories.png)
 
 ## 6 Выбираем все столбцы из таблицы "Категории", присоединеяем таблицу "Сотрудники", сортируем по фамилии в обратном порядке
 
-![6.Categories](/Images/6.Categories.png)
+![6.Categories](/Project10/Images/6.Categories.png)
 
 ## 7 Выбираем все столбцы из таблицы "Сотрудники", где год рождения не меньше 1960
 
-![7.Employees](/Images/7.Employees.png)
+![7.Employees](/Project10/Images/7.Employees.png)
 
 ## 8 Выбираем все столбцы из таблицы "Сотрудники", где год рождения не меньше 1960 и меньше 1968
 
-![8.Employees](/Images/8.Employees.png)
+![8.Employees](/Project10/Images/8.Employees.png)
 
 ## 9 Выбираем все столбцы из таблицы "Сотрудники", где год рождения не меньше 1960 и меньше 1968, сортируем по дате рождения в обратном порядке
 
-![9.Employees](/Images/9.Employees.png)
+![9.Employees](/Project10/Images/9.Employees.png)
 
 ## 10 Выбираем все столбцы из таблицы "Детали заказа", ограничиваем вывод 120 строками
 
-![10.Orders](/Images/10.OrderDetails.png)
+![10.Orders](/Project10/Images/10.OrderDetails.png)
 
 ## 11 Выбираем максимальное значение из столбца "Количество", таблицы "Детали заказа"
 
-![11.Orders](/Images/11.OrderDetails.png)
+![11.Orders](/Project10/Images/11.OrderDetails.png)
 
 ## 12 Выбираем все столбцы из таблицы "Детали заказа", где значение в столбце "Количество" больше 15, группируем по "ProductID", ограничиваем вывод 30 строками
 
-![12.Orders](/Images/12.OrderDetails.png)
+![12.Orders](/Project10/Images/12.OrderDetails.png)
 
 ## 13 Выбираем все столбцы в таблице продукты. Сортируем продукты по убыванию цены.
 
-![13.Orders](/Images/13.Orders.png)
+![13.Orders](/Project10/Images/13.Orders.png)
 
 ## 14 Выбираем все столбцы в таблице продукты. Фильтруем продукты по Идентификатор поставщика 17 и цене больше 15
 
-![14.Orders](/Images/14.Orders.png)
+![14.Orders](/Project10/Images/14.Orders.png)
 
 ## 15 Выбираем столбцы Идентификатор категории и цена в таблице продукты. Фильтр цен исключаем 17 19 21. Группируем по цене. Филтруем сгруппир данные где Идентификатор категории больше 5
 
-![15.Orders](/Images/15.Orders.png)
+![15.Orders](/Project10/Images/15.Orders.png)
 
 ## 16 Выбираем все столбцы в таблице грузоотправители. Фильтр исключаем грузоотправителя. Сортируем таблицу по убыванию номера телефона
 
-![16.Orders](/Images/16.Products.png)
+![16.Orders](/Project10/Images/16.Products.png)
 
 ## 17 Выбираем столбцы наименование грузоотправителя и телефон в таблице грузоотправители. Сортируем таблицу по номеру телефона
 
-![17.Orders](/Images/17.Products.png)
+![17.Orders](/Project10/Images/17.Products.png)
 
 ## 18 Выбираем все столбцы в таблице грузоотправители. Фильтр Идентификатор отправителя равный 2
 
-![18.Orders](/Images/18.Products.png)
+![18.Orders](/Project10/Images/18.Products.png)
 
 ## 19 Выбираем все столбцы в таблице поставщики. Сортируем таблицу по странам.
 
-![19.Shippers](/Images/19.Shippers.png)
+![19.Shippers](/Project10/Images/19.Shippers.png)
 
 ## 20 Выбираем все столбцы в таблице поставщики. Группируем по стране. Фильтр по индексу менее 3000
 
-![20.Shippers](/Images/20.Shippers.png)
+![20.Shippers](/Project10/Images/20.Shippers.png)
 
 ## 21 Выбираем все столбцы в таблице поставщики. Фильтр по ставщиков со страной Америка и Англия и Идентификатор поставщика больше 7
 
-![21.Shippers](/Images/21.Shippers.png)
+![21.Shippers](/Project10/Images/21.Shippers.png)
 
 ## 22 Выбираем все столбцы в таблице заказы. Сортировка по убыванию даты заказа
 
-![22.Suppliers](/Images/22.Suppliers.png)
+![22.Suppliers](/Project10/Images/22.Suppliers.png)
 
 ## 23 Выбираем все столбцы в таблице заказы. Фильтр заказов по Идентификатор сотрудника исключая 3 и 8
 
-![23.Suppliers](/Images/23.Suppliers.png)
+![23.Suppliers](/Project10/Images/23.Suppliers.png)
 
 ## 24 Выбираем все столбцы в таблице заказы. Фильтр заказов по Идентификатор отправителя содерж 1 и 3. Сортровка по дате заказа
 
-![24.Suppliers](/Images/24.Suppliers.png)
+![24.Suppliers](/Project10/Images/24.Suppliers.png)
